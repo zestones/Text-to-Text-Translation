@@ -77,5 +77,3 @@ project_root/
 - **`README.md`**: Documentation file providing an overview of the project, instructions for setup, usage guide, and any other relevant information.
 
 - **`.gitignore`**: File specifying patterns of files/directories that should be ignored by version control systems like Git.
-
-This proposed architecture provides a modular and organized structure for your project, facilitating easier collaboration, debugging, and reproducibility. Adjust and expand this structure based on specific needs and additional functionalities required for your project.
