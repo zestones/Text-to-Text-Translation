@@ -3,8 +3,6 @@ seaborn
 transformers
 sentencepiece
 sacremoses
-
-datasets
 pandas
 numpy
 scikit-learn
