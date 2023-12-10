@@ -33,4 +33,4 @@ The goal of this project is to explore and implement various deep learning techn
 - Explore different loss functions suitable for text-to-text translation tasks.
 
 ### 7. Evaluation Metrics:
-- Define and justify chosen evaluation metrics such as BLEU score, ROUGE score, or other relevant metrics to assess model performance.
+- Define and justify chosen evaluation metrics such as BLEU score, ROUGE score, or other relevant metrics to assess model performance
