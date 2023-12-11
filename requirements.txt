@@ -3,3 +3,8 @@ seaborn
 transformers
 sentencepiece
 sacremoses
+pandas
+numpy
+scikit-learn
+tokenizers
+tensorflow
